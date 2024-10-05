@@ -1,0 +1,42 @@
+header{
+    text-align: center;
+    color:orange;
+    text-shadow:0px 4px 4px white;
+    background-image: url(https://www.infoquilmes.com.ar/fotos/2024/07/91f6hi82jbge7c3a05d4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+ 
+h3{
+    color: white;
+}
+
+.titulo2{
+    color:rgb(255, 102, 0);
+    text-shadow:0px 4px 4px white;
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    margin: 0;
+    padding: 0;
+    text-align: center;  
+}
+
+
+footer{
+    text-align: center;
+    color: blue;
+    text-shadow:0px 4px 4px white;
+    background-image: url(https://img.lagacetasalta.com.ar/fotos/notas/2016/01/25/41594_20160125000504.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+}
+
